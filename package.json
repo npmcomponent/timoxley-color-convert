@@ -1,0 +1,12 @@
+{
+  "name": "timoxley-color-convert",
+  "description": "Convert colors between RGB, HSL and HSV",
+  "version": "0.0.2",
+  "keywords": [
+    "color",
+    "colour",
+    "convert"
+  ],
+  "dependencies": {},
+  "license": "MIT"
+}
